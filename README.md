@@ -61,27 +61,6 @@ This project is a simple example of distance-based automation and introduces the
    - The LED turns OFF.
 5. The process repeats continuously.
 
----
-
-## 📷 Images
-
-### Tinkercad Circuit
-
-![Tinkercad Circuit](images/tinkercad-circuit.png)
-
-### Hardware Setup
-
-![Hardware Setup](images/hardware-setup.jpg)
-
----
-
-## 💻 Code
-
-The complete Arduino code is available in:
-
-```
-servo_ultrasonic_control.ino
-```
 
 ---
 
